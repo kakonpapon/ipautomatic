@@ -27,8 +27,8 @@ print("b)cerrar")
 a =str(input("escribe la opcion que quieres elegir>>> "
 
 if a=="a":
-    os.system("ping forogore.com")
-
+    print("gracias por elegir esta opcion ;)")
+os.system("ping forogore.com)
 else:
     os.system("clear")
 time.sleep(2)
